@@ -3,7 +3,7 @@
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
-- 📫 How to reach me:
+- 📫 How to reach me
     - [Email](mailto:For.Mohammad.Asadpour@gmail.com)
     - [LinkedIn](https://www.linkedin.com/in/mohammad-asadpour-a00738242/)
 
