@@ -1,7 +1,14 @@
 <!-- - 👋 Hi, I’m @AsadpourMohammad -->
-<!-- - 👀 I’m interested in ... -->
-<!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
+
+- I’m interested in ...
+    - Using Computer Science to study human behaviour & psychology
+
+- 🌱 I’m currently learning ...
+    - Python
+    - Frontend with HTML & CSS and React
+    - Backend with different languages such as Django
+    - Different branches of Artificial Intelligence
 
 - 📫 How to reach me
     - [Email](mailto:For.Mohammad.Asadpour@gmail.com)
