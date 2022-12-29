@@ -1,6 +1,5 @@
 <!-- - 👋 Hi, I’m @AsadpourMohammad -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
-
 - I’m interested in ...
     - Using Computer Science to study human behaviour & psychology
 
