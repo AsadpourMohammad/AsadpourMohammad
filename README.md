@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ...
     - Python
     - Frontend with HTML & CSS and React
-    - Backend with different languages such as Django
+    - Backend with different languages such as Django & .NET
     - Different branches of Artificial Intelligence
 
 - 📫 How to reach me
