@@ -1,7 +1,3 @@
-
-- I’m interested in ...
-    - Using Computer Science to study human psychology & philosophy
-
 - 🌱 I’m currently learning ...
     - Frontend with HTML CSS and React
     - Backend with different languages, such as .NET & Django
