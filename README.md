@@ -1,6 +1,6 @@
 - 🌱 I’m currently learning ...
     - Frontend with HTML, CSS and React
-    - Backend with different languages, such as .NET & Django
+    - Backend with different languages, such as ASP.NET & Django
     - Different branches of Artificial Intelligence, such as cognitive science
 
 - 📫 How to reach me
