@@ -2,7 +2,7 @@
     - Frontend with HTML, CSS and React
     - Backend with different languages, such as ASP.NET & Django
     - Different branches of Artificial Intelligence, such as cognitive science
-    - How to raise a cat
+    - How to raise a turtle
 
 - 📫 How to reach me
     - [Email](mailto:For.Mohammad.Asadpour@gmail.com)
