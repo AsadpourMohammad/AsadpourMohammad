@@ -1,7 +1,7 @@
 <p align="center">
   <samp><strong>I'm currently learning…</strong><samp><br>
-  <samp>· everything and nothing ·<samp><br>
-  <samp>· how to raise a cat ·<samp>
+  <samp>· everything and nothing ·</samp><br>
+  <samp>· how to raise a cat ·</samp>
 </p>
 
 <p align="center">
